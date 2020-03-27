@@ -25,6 +25,15 @@ public class MyBinarySearchTree {
         return currentNode;
     }
 
+    public static void preOrder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        System.out.println(root.getData());
+        preOrder(root.getLeftChild());
+        preOrder(root.getRightChild());
+    }
+
     public boolean isEmpty() {
         return root == null;
     }
