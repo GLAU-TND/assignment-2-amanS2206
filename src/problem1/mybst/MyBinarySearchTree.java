@@ -25,6 +25,14 @@ public class MyBinarySearchTree {
         return currentNode;
     }
 
+    public boolean isEmpty() {
+        return root == null;
+    }
+
+    public int size() {
+        return numberOfNodes;
+    }
+
 
     public boolean add(int data) {
         root = addRecursive(root, data);
