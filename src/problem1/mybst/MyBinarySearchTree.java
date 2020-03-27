@@ -17,9 +17,9 @@ public class MyBinarySearchTree {
         if (currentNode == null) {
             return new TreeNode(data);
         }
-        if ((Integer) data < (Integer) currentNode.getData()) {
+        if (data < currentNode.getData()) {
             currentNode.leftChild = addRecursive(currentNode.getLeftChild(), data);
-        } else if ((Integer) data > (Integer) currentNode.getData()) {
+        } else if (data > currentNode.getData()) {
             currentNode.rightChild = addRecursive(currentNode.getRightChild(), data);
         }
         return currentNode;
