@@ -113,33 +113,16 @@ public class MyPriorityQueue {
         }
     }
 
-    @Override
-    public String toString() {
-        {
-            StringBuilder sb = new StringBuilder();
-            Node temp = front;
-            for (int i = 0; i < size; i++) {
-                if ((i < size - 1)) {
-                    sb.append(temp.toString());
-                    sb.append("\n");
-                    temp = temp.getNext();
-                } else {
-                    sb.append(temp.toString());
-                }
-            }
-            return sb.toString();
-        }
-    }
 
     public void display() {
         Node temp = this.front;
         for (int i = 0; i < this.size; i++) {
             if (i != this.size - 1) {
-                System.out.print(temp.getData().toString() + ": ");
+                System.out.print("Roll NO :  " + temp.getData().getRollNo() + "   Name : " + temp.getData().getName());
                 System.out.println();
                 temp = temp.getNext();
             } else {
-                System.out.println(temp.getData().toString());
+                System.out.println("Roll NO :  " + temp.getData().getRollNo() + "   Name : " + temp.getData().getName());
             }
         }
     }

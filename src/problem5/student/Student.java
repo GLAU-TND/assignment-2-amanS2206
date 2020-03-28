@@ -9,15 +9,21 @@ package problem5.student;
 public class Student implements Comparable<Student> {
 
     private int rollNo;
-    private String firstName;
-    private String lastName;
-    private String section;
+    private String Name;
+    private String backLog;
+    private String appearance;
 
-    public Student(int rollNo, String firstName, String lastName, String section) {
+
+    public Student(int rollNo, String Name) {
         this.rollNo = rollNo;
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.section = section;
+        this.Name = Name;
+    }
+
+    public Student(int rollNo, String Name, String backLog, String appearance) {
+        this.rollNo = rollNo;
+        this.Name = Name;
+        this.backLog = backLog;
+        this.appearance = appearance;
     }
 
     public int getRollNo() {
@@ -28,33 +34,33 @@ public class Student implements Comparable<Student> {
         this.rollNo = rollNo;
     }
 
-    public String getFirstName() {
-        return firstName;
+    public String getName() {
+        return Name;
     }
 
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
+    public void setName(String Name) {
+        this.Name = Name;
     }
 
-    public String getLastName() {
-        return lastName;
+    public String getBackLog() {
+        return backLog;
     }
 
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
+    public void setLastName(String backLog) {
+        this.backLog = backLog;
     }
 
-    public String getSection() {
-        return section;
+    public String getAppearance() {
+        return appearance;
     }
 
-    public void setSection(String section) {
-        this.section = section;
+    public void setAppearance(String appearance) {
+        this.appearance = appearance;
     }
 
     @Override
     public String toString() {
-        return "RollNo:-" + this.rollNo + " Name:- " + this.getFirstName() + " " + this.getLastName() + " Section:-" + this.getSection();
+        return "RollNo:-" + this.rollNo + " Name:- " + this.getName() + " " + this.getBackLog() + " Section:-" + this.getAppearance();
     }
 
     @Override
