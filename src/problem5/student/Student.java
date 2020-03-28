@@ -10,8 +10,8 @@ public class Student implements Comparable<Student> {
 
     private int rollNo;
     private String Name;
-    private String backLog;
-    private String appearance;
+    private int backLog;
+    private int appearance;
 
 
     public Student(int rollNo, String Name) {
@@ -19,7 +19,7 @@ public class Student implements Comparable<Student> {
         this.Name = Name;
     }
 
-    public Student(int rollNo, String Name, String backLog, String appearance) {
+    public Student(int rollNo, String Name, int backLog, int appearance) {
         this.rollNo = rollNo;
         this.Name = Name;
         this.backLog = backLog;
@@ -42,19 +42,19 @@ public class Student implements Comparable<Student> {
         this.Name = Name;
     }
 
-    public String getBackLog() {
+    public int getBackLog() {
         return backLog;
     }
 
-    public void setLastName(String backLog) {
+    public void setLastName(int backLog) {
         this.backLog = backLog;
     }
 
-    public String getAppearance() {
+    public int getAppearance() {
         return appearance;
     }
 
-    public void setAppearance(String appearance) {
+    public void setAppearance(int appearance) {
         this.appearance = appearance;
     }
 
