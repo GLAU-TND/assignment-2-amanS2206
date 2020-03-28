@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/problem4/node/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem5/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/node/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem5/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585338559808</updated>
       <workItem from="1585338563899" duration="3554000" />
-      <workItem from="1585376462198" duration="15899000" />
+      <workItem from="1585376462198" duration="16499000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585338703482</created>
@@ -228,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585395245420</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="modify node class">
+      <created>1585395803179</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585395803179</updated>
+    </task>
+    <task id="LOCAL-00023" summary="modify student class">
+      <created>1585395955460</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1585395955460</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,8 +270,6 @@
     <MESSAGE value="make constructor of MyPriorityQueue class" />
     <MESSAGE value="made student class and add getter setter and also made tostring and compare to method" />
     <MESSAGE value="add offer getnode getrightindex methods in MyPriorityQueue class" />
-    <MESSAGE value="modify node class" />
-    <MESSAGE value="modify student class" />
     <MESSAGE value="create peek method" />
     <MESSAGE value="create poll element and remove methods" />
     <MESSAGE value="create to string method" />
@@ -260,16 +278,18 @@
     <MESSAGE value="made NOde class" />
     <MESSAGE value="made constructor of MyCircularQueue class" />
     <MESSAGE value="made enqueue and display method" />
-    <option name="LAST_COMMIT_MESSAGE" value="made enqueue and display method" />
+    <MESSAGE value="modify node class" />
+    <MESSAGE value="modify student class" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify student class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585395801995">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585395954140">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585395801995" />
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585395954140" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585394156139">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
