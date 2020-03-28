@@ -71,5 +71,13 @@ public class MyPriorityQueue {
 
     }
 
+    public Student peek() {
+        if (front == null)
+            return null;
+        else {
+            return front.getData();
+        }
+    }
+
 
 }
