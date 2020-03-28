@@ -24,7 +24,7 @@ public class MyCircularQueue {
     public void enqueue(ArrayList<Student> arrayList) {
         for (Student s : arrayList) {
             if (s.getBackLog() - s.getAppearance() > 0) {
-                if (s.getAppearance() < 3 || s.getBackLog() != 0) {
+                if (s.getAppearance() < 3 && s.getBackLog() != 0) {
                     Node node = new Node(s);
                     if (rear == null) {
                         rear = node;
