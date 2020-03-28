@@ -9,20 +9,25 @@ import problem5.student.Student;
 
 // to define node properties
 public class Node {
-    private Student stu;
+    private Student student;
     private Node next;
 
     public Node(Student stu) {
-        this.stu = stu;
+        this.student = stu;
         next = null;
     }
 
+    public Node(Student student, Node next) {
+        this.student = student;
+
+    }
+
     public Student getData() {
-        return stu;
+        return student;
     }
 
     public void setData(Student student) {
-        this.stu = student;
+        this.student = student;
     }
 
     public Node getNext() {
