@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585338559808</updated>
       <workItem from="1585338563899" duration="3554000" />
-      <workItem from="1585376462198" duration="11099000" />
+      <workItem from="1585376462198" duration="12848000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585338703482</created>
@@ -190,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585390523268</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="made NOde class">
+      <created>1585391099386</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391099386</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,16 +227,17 @@
     <MESSAGE value="create to string method" />
     <MESSAGE value="made display method" />
     <MESSAGE value="made main class" />
-    <option name="LAST_COMMIT_MESSAGE" value="made main class" />
+    <MESSAGE value="made NOde class" />
+    <option name="LAST_COMMIT_MESSAGE" value="made NOde class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585390522005">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585391098234">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585390522005" />
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585391098234" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585377761052">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
