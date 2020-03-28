@@ -34,6 +34,15 @@ public class MyBinarySearchTree {
         preOrder(root.getRightChild());
     }
 
+    public void postOrder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        postOrder(root.getLeftChild());
+        postOrder(root.getRightChild());
+        System.out.print(root.getData());
+    }
+
     public boolean isEmpty() {
         return root == null;
     }
