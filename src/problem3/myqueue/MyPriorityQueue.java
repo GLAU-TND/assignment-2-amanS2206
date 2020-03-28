@@ -112,4 +112,22 @@ public class MyPriorityQueue {
             return item;
         }
     }
+
+    @Override
+    public String toString() {
+        {
+            StringBuilder sb = new StringBuilder();
+            Node temp = front;
+            for (int i = 0; i < size; i++) {
+                if ((i < size - 1)) {
+                    sb.append(temp.toString());
+                    sb.append("\n");
+                    temp = temp.getNext();
+                } else {
+                    sb.append(temp.toString());
+                }
+            }
+            return sb.toString();
+        }
+    }
 }
