@@ -8,10 +8,19 @@ package problem1.mybst;
 
 import problem1.node.TreeNode;
 
+import java.util.ArrayList;
+
 // to implement BinarySearchTree
 public class MyBinarySearchTree {
     private int numberOfNodes;
     private TreeNode root;
+    public static ArrayList arr;
+
+    public MyBinarySearchTree() {
+        this.numberOfNodes = 0;
+        this.root = null;
+        arr = new ArrayList();
+    }
 
     private TreeNode addRecursive(TreeNode currentNode, int data) {
         if (currentNode == null) {
@@ -29,6 +38,7 @@ public class MyBinarySearchTree {
         if (root == null) {
             return;
         }
+        arr.add(root.getData());
         System.out.println(root.getData());
         preOrder(root.getLeftChild());
         preOrder(root.getRightChild());
