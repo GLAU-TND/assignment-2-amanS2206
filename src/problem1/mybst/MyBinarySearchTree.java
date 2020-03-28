@@ -13,7 +13,7 @@ import java.util.ArrayList;
 // to implement BinarySearchTree
 public class MyBinarySearchTree {
     private int numberOfNodes;
-    private TreeNode root;
+    public TreeNode root;
     public static ArrayList arr;
 
     public MyBinarySearchTree() {
