@@ -14,20 +14,13 @@ import problem5.student.Student;
 public class MyMain {
     public static void main(String[] args) {
         MyPriorityQueue obj = new MyPriorityQueue();
-        Student s = new Student(5, "Abc");
-        Student s1 = new Student(8, "qasdf");
-        Student s2 = new Student(2, "saf");
-        Student s3 = new Student(32, "hu");
-        Student s4 = new Student(47, "qwe");
-        Student s5 = new Student(9, "io");
-        Student s6 = new Student(1, "ghf");
-        obj.offer(s);
-        obj.offer(s1);
-        obj.offer(s2);
-        obj.offer(s3);
-        obj.offer(s4);
-        obj.offer(s5);
-        obj.offer(s6);
+        obj.offer(new Student(2, "fas"));
+        obj.offer(new Student(5, "iouo"));
+        obj.offer(new Student(23, "lkj"));
+        obj.offer(new Student(8, "pou"));
+        obj.offer(new Student(10, "pu"));
+        obj.offer(new Student(30, "qwqer"));
+        obj.offer(new Student(22, "yujn"));
         obj.display();
 
     }

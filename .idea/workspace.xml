@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="">
+    <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="modify main class for problem 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MyMain (2)">
+  <component name="RunManager" selected="Application.MyMain">
     <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem5.main.MyMain" />
       <module name="assignment-2-amanS2206" />
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.MyMain (2)" />
         <item itemvalue="Application.MyMain (4)" />
         <item itemvalue="Application.MyMain (3)" />
         <item itemvalue="Application.MyMain (1)" />
-        <item itemvalue="Application.MyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585338559808</updated>
       <workItem from="1585338563899" duration="3554000" />
-      <workItem from="1585376462198" duration="24490000" />
+      <workItem from="1585376462198" duration="25360000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585338703482</created>
@@ -346,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585411135153</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="modify main class for problem 5">
+      <created>1585411513834</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585411513834</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +365,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="&#10;create a Tree Node class" />
     <MESSAGE value="create add method" />
     <MESSAGE value="modify add recursive method" />
     <MESSAGE value="create isEmpty and size method" />
@@ -382,36 +389,37 @@
     <MESSAGE value="made MyQueue class" />
     <MESSAGE value="modify main class of  problem 2" />
     <MESSAGE value="modify main class of problem 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify main class of problem 4" />
+    <MESSAGE value="modify main class for problem 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify main class for problem 5" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585411133998">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585411655851">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585411133998" />
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585411655851" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585394156139">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585394156139" />
-    <state width="1323" height="27" key="GridCell.Tab.0.bottom" timestamp="1585411087104">
+    <state width="1323" height="13" key="GridCell.Tab.0.bottom" timestamp="1585411633162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="27" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585411087104" />
-    <state width="1323" height="27" key="GridCell.Tab.0.center" timestamp="1585411087103">
+    <state width="1323" height="13" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585411633162" />
+    <state width="1323" height="13" key="GridCell.Tab.0.center" timestamp="1585411633162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="27" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585411087103" />
-    <state width="1323" height="27" key="GridCell.Tab.0.left" timestamp="1585411087103">
+    <state width="1323" height="13" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585411633162" />
+    <state width="1323" height="13" key="GridCell.Tab.0.left" timestamp="1585411633162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="27" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585411087103" />
-    <state width="1323" height="27" key="GridCell.Tab.0.right" timestamp="1585411087103">
+    <state width="1323" height="13" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585411633162" />
+    <state width="1323" height="13" key="GridCell.Tab.0.right" timestamp="1585411633162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="27" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585411087103" />
+    <state width="1323" height="13" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585411633162" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1585393361302">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
