@@ -6,7 +6,7 @@
  */
 package problem5.student;
 // to store student information and properties
-public class Student {
+public class Student implements Comparable<Student> {
 
     private int rollNo;
     private String firstName;
@@ -57,7 +57,8 @@ public class Student {
         return "RollNo:-" + this.rollNo + " Name:- " + this.getFirstName() + " " + this.getLastName() + " Section:-" + this.getSection();
     }
 
-    public int compareTo(Student student) {
-        return Integer.compare(this.rollNo, student.rollNo);
+    @Override
+    public int compareTo(Student o) {
+        return Integer.compare(this.rollNo, o.rollNo);
     }
 }
