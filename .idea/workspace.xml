@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585338559808</updated>
       <workItem from="1585338563899" duration="3554000" />
-      <workItem from="1585376462198" duration="25360000" />
+      <workItem from="1585376462198" duration="25869000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585338703482</created>
@@ -354,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585411513834</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="modify main class of problem 3">
+      <created>1585412190113</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585412190113</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +371,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="create add method" />
     <MESSAGE value="modify add recursive method" />
     <MESSAGE value="create isEmpty and size method" />
     <MESSAGE value="create preorder method" />
@@ -390,16 +395,17 @@
     <MESSAGE value="modify main class of  problem 2" />
     <MESSAGE value="modify main class of problem 4" />
     <MESSAGE value="modify main class for problem 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify main class for problem 5" />
+    <MESSAGE value="modify main class of problem 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify main class of problem 3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585411655851">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585412316673">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585411655851" />
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585412316673" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585394156139">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
