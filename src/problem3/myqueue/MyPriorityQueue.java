@@ -23,7 +23,7 @@ public class MyPriorityQueue {
     }
 
     public boolean offer(Student student) {
-        int index = getRightIndex(student);
+        int index = getIndex(student);
         if (index == 0) {
             if (front == null) {
                 front = new Node(student);
@@ -57,7 +57,7 @@ public class MyPriorityQueue {
         return response;
     }
 
-    private int getRightIndex(Student student) {
+    private int getIndex(Student student) {
         if (this.size == 0) {
             return 0;
         } else {
@@ -128,6 +128,19 @@ public class MyPriorityQueue {
                 }
             }
             return sb.toString();
+        }
+    }
+
+    public void display() {
+        Node temp = this.front;
+        for (int i = 0; i < this.size; i++) {
+            if (i != this.size - 1) {
+                System.out.print(temp.getData().toString() + ": ");
+                System.out.println();
+                temp = temp.getNext();
+            } else {
+                System.out.println(temp.getData().toString());
+            }
         }
     }
 }
