@@ -5,8 +5,11 @@
  *  Time: 7:15 PM
  */
 package problem3.myqueue;
+
 import problem3.node.Node;
 import problem5.student.Student;
+
+import java.util.NoSuchElementException;
 
 public class MyPriorityQueue {
     private Node rear;
@@ -79,5 +82,34 @@ public class MyPriorityQueue {
         }
     }
 
+    public Student poll() {
+        if (front == null) {
+            return null;
+        } else {
+            Student temp = front.getData();
+            front = front.getNext();
+            size--;
+            return temp;
+        }
+    }
 
+    public Student element() {
+        if (front == null)
+            throw new NoSuchElementException();
+        else {
+            return front.getData();
+        }
+    }
+
+
+    public Student remove() {
+        if (front == null) {
+            throw new NoSuchElementException();
+        } else {
+            Student item = peek();
+            front = front.getNext();
+            size--;
+            return item;
+        }
+    }
 }
