@@ -19,6 +19,11 @@ public class Node {
         next = null;
     }
 
+    public Node(Student student, Node next) {
+        this.student = student;
+        this.next = next;
+    }
+
 
     public Student getData() {
         return student;
