@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MyMain (3)">
+  <component name="RunManager" selected="Application.MyMain (1)">
     <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem5.main.MyMain" />
       <module name="assignment-2-amanS2206" />
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyMain (3)" />
-        <item itemvalue="Application.MyMain (4)" />
-        <item itemvalue="Application.MyMain" />
-        <item itemvalue="Application.MyMain (2)" />
         <item itemvalue="Application.MyMain (1)" />
+        <item itemvalue="Application.MyMain (2)" />
+        <item itemvalue="Application.MyMain" />
+        <item itemvalue="Application.MyMain (4)" />
+        <item itemvalue="Application.MyMain (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <updated>1585338559808</updated>
       <workItem from="1585338563899" duration="3554000" />
       <workItem from="1585376462198" duration="26821000" />
-      <workItem from="1585571158692" duration="2480000" />
+      <workItem from="1585571158692" duration="5310000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585338703482</created>
@@ -388,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585573189873</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="made some modification">
+      <created>1585573710042</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1585573710042</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +407,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="create node class" />
     <MESSAGE value="make constructor of MyPriorityQueue class" />
     <MESSAGE value="made student class and add getter setter and also made tostring and compare to method" />
     <MESSAGE value="add offer getnode getrightindex methods in MyPriorityQueue class" />
@@ -424,36 +431,37 @@
     <MESSAGE value="made some changes" />
     <MESSAGE value="made methods which prints all left nodes and count no of nodes which does no have left childen" />
     <MESSAGE value="modify main class of problem 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify main class of problem 1" />
+    <MESSAGE value="made some modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some modification" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585573188768">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585585463505">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585573188768" />
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585585463505" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585394156139">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585394156139" />
-    <state width="1323" height="51" key="GridCell.Tab.0.bottom" timestamp="1585573644787">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1585585520242">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="51" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585573644787" />
-    <state width="1323" height="51" key="GridCell.Tab.0.center" timestamp="1585573644786">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
+    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1585585520242">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="51" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585573644786" />
-    <state width="1323" height="51" key="GridCell.Tab.0.left" timestamp="1585573644786">
+    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
+    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1585585520242">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="51" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585573644786" />
-    <state width="1323" height="51" key="GridCell.Tab.0.right" timestamp="1585573644786">
+    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1585585520242">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="51" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585573644786" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1585412973757">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

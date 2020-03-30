@@ -31,7 +31,6 @@ public class MyCircularQueue {
                         size++;
                         node.setNext(node);
                     } else {
-                        //giving circular behaviour
                         node.setNext(rear.getNext());
                         rear.setNext(node);
                         rear = node;
@@ -47,11 +46,11 @@ public class MyCircularQueue {
         Node temp = this.rear;
         for (int i = 0; i < this.size; i++) {
             if (i != this.size - 1) {
-                System.out.print("Roll NO:  " + temp.getData().getRollNo() + "  Name:  " + temp.getData().getName() + "  Backlog: " + temp.getData().getBackLog() + "  Apearence: " + temp.getData().getAppearance());
+                System.out.print("Roll NO:  " + temp.getData().getRollNo() + "  Name:  " + temp.getData().getName() + "     Backlog: " + temp.getData().getBackLog() + "    Apearence: " + temp.getData().getAppearance());
                 System.out.println();
                 temp = temp.getNext();
             } else {
-                System.out.println("Roll NO:  " + temp.getData().getRollNo() + "  Name:  " + temp.getData().getName() + "  Backlog: " + temp.getData().getBackLog() + "  Apearence: " + temp.getData().getAppearance());
+                System.out.println("Roll NO:  " + temp.getData().getRollNo() + "  Name:  " + temp.getData().getName() + "   Backlog: " + temp.getData().getBackLog() + "    Apearence: " + temp.getData().getAppearance());
             }
         }
     }
