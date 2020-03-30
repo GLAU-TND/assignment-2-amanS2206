@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zj3DwLpTbPhKeNVawHUnQsostk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CircularQueueDS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.MyMain (1)">
+    <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem5.main.MyMain" />
+      <module name="assignment-2-amanS2206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem5.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem4.main.MyMain" />
+      <module name="assignment-2-amanS2206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem4.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
+      <module name="assignment-2-amanS2206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem2.main.MyMain" />
+      <module name="assignment-2-amanS2206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem2.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem3.main.MyMain" />
+      <module name="assignment-2-amanS2206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem3.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyMain (1)" />
+        <item itemvalue="Application.MyMain (2)" />
+        <item itemvalue="Application.MyMain" />
+        <item itemvalue="Application.MyMain (4)" />
+        <item itemvalue="Application.MyMain (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="" />
+      <created>1585338559808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585338559808</updated>
+      <workItem from="1585338563899" duration="3554000" />
+      <workItem from="1585376462198" duration="26821000" />
+      <workItem from="1585571158692" duration="5310000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1585338703482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585338703482</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;create a Tree Node class">
+      <created>1585339647350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585339647350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create add method">
+      <created>1585340926687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585340926687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modify add recursive method">
+      <created>1585341015809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585341015809</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create isEmpty and size method">
+      <created>1585341333117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585341333117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create preorder method">
+      <created>1585342053934</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585342053934</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create postorder method">
+      <created>1585376753107</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585376753107</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create node class">
+      <created>1585378609693</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585378609693</updated>
+    </task>
+    <task id="LOCAL-00009" summary="make constructor of MyPriorityQueue class">
+      <created>1585379551231</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379551231</updated>
+    </task>
+    <task id="LOCAL-00010" summary="made student class and add getter setter and also made tostring and compare to method">
+      <created>1585381180435</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585381180435</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add offer getnode getrightindex methods in MyPriorityQueue class">
+      <created>1585383782912</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585383782912</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modify node class">
+      <created>1585384152246</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585384152246</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modify student class">
+      <created>1585384407784</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585384407784</updated>
+    </task>
+    <task id="LOCAL-00014" summary="create peek method">
+      <created>1585384857490</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585384857490</updated>
+    </task>
+    <task id="LOCAL-00015" summary="create poll element and remove methods">
+      <created>1585387723377</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585387723377</updated>
+    </task>
+    <task id="LOCAL-00016" summary="create to string method">
+      <created>1585388573933</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585388573933</updated>
+    </task>
+    <task id="LOCAL-00017" summary="made display method">
+      <created>1585390291495</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390291495</updated>
+    </task>
+    <task id="LOCAL-00018" summary="made main class">
+      <created>1585390523268</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390523268</updated>
+    </task>
+    <task id="LOCAL-00019" summary="made NOde class">
+      <created>1585391099386</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391099386</updated>
+    </task>
+    <task id="LOCAL-00020" summary="made constructor of MyCircularQueue class">
+      <created>1585392899393</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585392899393</updated>
+    </task>
+    <task id="LOCAL-00021" summary="made enqueue and display method">
+      <created>1585395245420</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585395245420</updated>
+    </task>
+    <task id="LOCAL-00022" summary="modify node class">
+      <created>1585395803179</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585395803179</updated>
+    </task>
+    <task id="LOCAL-00023" summary="modify student class">
+      <created>1585395955460</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1585395955460</updated>
+    </task>
+    <task id="LOCAL-00024" summary="made node class for problem 4">
+      <created>1585396405405</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1585396405405</updated>
+    </task>
+    <task id="LOCAL-00025" summary="modify MyBinarySearchTree class">
+      <created>1585397701414</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397701414</updated>
+    </task>
+    <task id="LOCAL-00026" summary="modify MyBinarySearchTree class">
+      <created>1585398034637</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585398034637</updated>
+    </task>
+    <task id="LOCAL-00027" summary="made MyQueue class">
+      <created>1585399185652</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585399185652</updated>
+    </task>
+    <task id="LOCAL-00028" summary="modify main class of  problem 2">
+      <created>1585410491659</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585410491659</updated>
+    </task>
+    <task id="LOCAL-00029" summary="modify main class of problem 4">
+      <created>1585411135153</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585411135153</updated>
+    </task>
+    <task id="LOCAL-00030" summary="modify main class for problem 5">
+      <created>1585411513834</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585411513834</updated>
+    </task>
+    <task id="LOCAL-00031" summary="modify main class of problem 3">
+      <created>1585412190113</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585412190113</updated>
+    </task>
+    <task id="LOCAL-00032" summary="made some changes in main class">
+      <created>1585412780208</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585412780208</updated>
+    </task>
+    <task id="LOCAL-00033" summary="made some changes">
+      <created>1585412926877</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1585412926877</updated>
+    </task>
+    <task id="LOCAL-00034" summary="made methods which prints all left nodes and count no of nodes which does no have left childen">
+      <created>1585572962763</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1585572962763</updated>
+    </task>
+    <task id="LOCAL-00035" summary="modify main class of problem 1">
+      <created>1585573189873</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1585573189873</updated>
+    </task>
+    <task id="LOCAL-00036" summary="made some modification">
+      <created>1585573710042</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1585573710042</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="make constructor of MyPriorityQueue class" />
+    <MESSAGE value="made student class and add getter setter and also made tostring and compare to method" />
+    <MESSAGE value="add offer getnode getrightindex methods in MyPriorityQueue class" />
+    <MESSAGE value="create peek method" />
+    <MESSAGE value="create poll element and remove methods" />
+    <MESSAGE value="create to string method" />
+    <MESSAGE value="made display method" />
+    <MESSAGE value="made main class" />
+    <MESSAGE value="made NOde class" />
+    <MESSAGE value="made constructor of MyCircularQueue class" />
+    <MESSAGE value="made enqueue and display method" />
+    <MESSAGE value="modify node class" />
+    <MESSAGE value="modify student class" />
+    <MESSAGE value="made node class for problem 4" />
+    <MESSAGE value="modify MyBinarySearchTree class" />
+    <MESSAGE value="made MyQueue class" />
+    <MESSAGE value="modify main class of  problem 2" />
+    <MESSAGE value="modify main class of problem 4" />
+    <MESSAGE value="modify main class for problem 5" />
+    <MESSAGE value="modify main class of problem 3" />
+    <MESSAGE value="made some changes in main class" />
+    <MESSAGE value="made some changes" />
+    <MESSAGE value="made methods which prints all left nodes and count no of nodes which does no have left childen" />
+    <MESSAGE value="modify main class of problem 1" />
+    <MESSAGE value="made some modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some modification" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585585463505">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585585463505" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585394156139">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585394156139" />
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1585585520242">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
+    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1585585520242">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
+    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1585585520242">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1585585520242">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585585520242" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1585412973757">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1585412973757" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1585393361302">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585393361302" />
+  </component>
+</project>
