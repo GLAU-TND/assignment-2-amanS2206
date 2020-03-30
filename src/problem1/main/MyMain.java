@@ -20,6 +20,7 @@ public class MyMain {
             i--;
         }
         bst.LeftChildren(bst.root);
+        System.out.println();
         bst.CountNodes(bst.root);
 
     }

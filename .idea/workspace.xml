@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="modify main class for problem 5">
+    <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +141,7 @@
       <updated>1585338559808</updated>
       <workItem from="1585338563899" duration="3554000" />
       <workItem from="1585376462198" duration="26821000" />
-      <workItem from="1585571158692" duration="2011000" />
+      <workItem from="1585571158692" duration="2480000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585338703482</created>
@@ -380,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585572962763</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="modify main class of problem 1">
+      <created>1585573189873</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1585573189873</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +399,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="create postorder method" />
     <MESSAGE value="create node class" />
     <MESSAGE value="make constructor of MyPriorityQueue class" />
     <MESSAGE value="made student class and add getter setter and also made tostring and compare to method" />
@@ -416,36 +423,37 @@
     <MESSAGE value="made some changes in main class" />
     <MESSAGE value="made some changes" />
     <MESSAGE value="made methods which prints all left nodes and count no of nodes which does no have left childen" />
-    <option name="LAST_COMMIT_MESSAGE" value="made methods which prints all left nodes and count no of nodes which does no have left childen" />
+    <MESSAGE value="modify main class of problem 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify main class of problem 1" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585572960411">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585573188768">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585572960411" />
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585573188768" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585394156139">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585394156139" />
-    <state width="1323" height="462" key="GridCell.Tab.0.bottom" timestamp="1585572097555">
+    <state width="1323" height="51" key="GridCell.Tab.0.bottom" timestamp="1585573644787">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="462" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585572097555" />
-    <state width="1323" height="462" key="GridCell.Tab.0.center" timestamp="1585572097554">
+    <state width="1323" height="51" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585573644787" />
+    <state width="1323" height="51" key="GridCell.Tab.0.center" timestamp="1585573644786">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="462" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585572097554" />
-    <state width="1323" height="462" key="GridCell.Tab.0.left" timestamp="1585572097554">
+    <state width="1323" height="51" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585573644786" />
+    <state width="1323" height="51" key="GridCell.Tab.0.left" timestamp="1585573644786">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="462" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585572097554" />
-    <state width="1323" height="462" key="GridCell.Tab.0.right" timestamp="1585572097555">
+    <state width="1323" height="51" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585573644786" />
+    <state width="1323" height="51" key="GridCell.Tab.0.right" timestamp="1585573644786">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="462" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585572097555" />
+    <state width="1323" height="51" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585573644786" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1585412973757">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
