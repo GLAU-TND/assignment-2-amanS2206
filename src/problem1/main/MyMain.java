@@ -15,9 +15,12 @@ public class MyMain {
         MyBinarySearchTree bst = new MyBinarySearchTree();
         Random r = new Random();
         int i = r.nextInt(10);
-        while (i < 0) {
+        while (i > 0) {
             bst.add(r.nextInt(100));
+            i--;
         }
+        bst.LeftChildren(bst.root);
+        bst.CountNodes(bst.root);
 
     }
 }

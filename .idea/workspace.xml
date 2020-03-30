@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b61c46d3-7801-4814-aa40-c3094b4f190e" name="Default Changelist" comment="modify main class for problem 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +140,7 @@
       <updated>1585338559808</updated>
       <workItem from="1585338563899" duration="3554000" />
       <workItem from="1585376462198" duration="26821000" />
-      <workItem from="1585571158692" duration="1510000" />
+      <workItem from="1585571158692" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585338703482</created>
@@ -375,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585412926877</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="made methods which prints all left nodes and count no of nodes which does no have left childen">
+      <created>1585572962763</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1585572962763</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +391,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="create preorder method" />
     <MESSAGE value="create postorder method" />
     <MESSAGE value="create node class" />
     <MESSAGE value="make constructor of MyPriorityQueue class" />
@@ -411,16 +415,17 @@
     <MESSAGE value="modify main class of problem 3" />
     <MESSAGE value="made some changes in main class" />
     <MESSAGE value="made some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="made some changes" />
+    <MESSAGE value="made methods which prints all left nodes and count no of nodes which does no have left childen" />
+    <option name="LAST_COMMIT_MESSAGE" value="made methods which prints all left nodes and count no of nodes which does no have left childen" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585412925552">
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2" timestamp="1585572960411">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585412925552" />
+    <state x="253" y="56" width="858" height="704" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585572960411" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585394156139">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
